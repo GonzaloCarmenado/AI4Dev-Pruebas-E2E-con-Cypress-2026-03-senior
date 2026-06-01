@@ -1,0 +1,23 @@
+[
+  {
+    "candidateId": 1,
+    "fullName": "John Doe",
+    "currentInterviewStep": "Technical Interview",
+    "averageScore": 5,
+    "applicationId": 1
+  },
+  {
+    "candidateId": 2,
+    "fullName": "Jane Smith",
+    "currentInterviewStep": "Technical Interview",
+    "averageScore": 4,
+    "applicationId": 3
+  },
+  {
+    "candidateId": 3,
+    "fullName": "Carlos García",
+    "currentInterviewStep": "Initial Screening",
+    "averageScore": 0,
+    "applicationId": 4
+  }
+]
